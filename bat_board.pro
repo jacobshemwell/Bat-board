@@ -1,4 +1,4 @@
-update=Fri 06 Oct 2017 03:26:08 PM CDT
+update=Fri 06 Oct 2017 06:10:23 PM CDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,8 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
@@ -59,5 +61,5 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-[general]
-version=1
+LibName33=psoc4-batboard
+LibName34=UART-PC-batboard
